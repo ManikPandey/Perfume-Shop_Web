@@ -101,3 +101,4 @@ The application is designed with a strong focus on a clean, premium user interfa
 Once both servers are running, you can access the application in your browser at `http://localhost:3000`.
 
 for more related  preview image go to assets folder 
+![assets](https://github.com/ManikPandey/Perfume-Shop_Web/tree/main/assets) 
